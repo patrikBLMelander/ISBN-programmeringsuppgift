@@ -1,0 +1,6 @@
+util\ISBNValidator.class
+Main.class
+util\InputFileReader.class
+aplication\Logging.class
+aplication\Application.class
+util\ProgramSetup.class
